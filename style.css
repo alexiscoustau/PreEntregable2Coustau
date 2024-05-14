@@ -1,0 +1,32 @@
+.caja1{
+     height: 20vh;
+    }
+.caja2{
+    height:60vh;
+    }
+.caja3{
+     height: 20vh;
+    }
+.caja4{
+    height: 480px;
+    }
+.caja5{
+
+    height: 480px;
+    background-color:rgba(182, 180, 180, 0.315);
+    border-radius: 40px;
+}
+
+.formulario {
+   padding-top: 40px;
+   padding-right: 100px;
+   padding-left:100px ;
+}
+
+.titulo{
+   padding-top: 50px;
+}
+
+.boton {
+    padding-top: 40px;
+}
